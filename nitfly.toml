@@ -1,7 +1,7 @@
 [[redirects]]
-from = "/starter-code"
-to = "/index.html"
-status = 200
-force = true
+from = "/space-tourism-website-main"
+to = "/starter-code"
+status = 301
+force = false
 
   
